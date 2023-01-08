@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int  z=0 , a, ;
+        int  z=0 , a,cari;
         Buku[] data = new Buku[20000];
         data[z] = new Buku();
 
